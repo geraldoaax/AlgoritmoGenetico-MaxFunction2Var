@@ -1,3 +1,8 @@
+## Projeto
+
+Este projeto foi desenvolvido com Visual Studio com VB.NET e atualizado para a versão 2022 com o .NET 4.8 mas exige > .NET 4.5.2)
+(Pode ser alterado no arquivo de solução)
+
 ## Introdução
 
 Este trabalho consiste em aplicar e avaliar um algoritmo genético com duas variáveis (x, y) para a maximização da função f, no intervalos [ -3.1,12] e [4.1,5.8] e definida por: 21.5 + x * sin(4 * PI * x) + y * * sin(20 * PI * y) usando o método de seleção com Hanking e aplicando o elitismo para o cruzamento de dois pontos dos indivíduos.
