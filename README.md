@@ -7,14 +7,21 @@ Este projeto foi desenvolvido com Visual Studio com VB.NET e atualizado para a v
 
 Este trabalho consiste em aplicar e avaliar um algoritmo genético com duas variáveis (x, y) para a maximização da função f, no intervalos [ -3.1,12] e [4.1,5.8] e definida por: 21.5 + x * sin(4 * PI * x) + y * * sin(20 * PI * y) usando o método de seleção com Hanking e aplicando o elitismo para o cruzamento de dois pontos dos indivíduos.
 
- 
+<p align="center"> 
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction2Var/blob/main/img/grafico_funcao_f.png/>
+<br/>
 Figura 1 – Gráfico da Função f
+</p>
 
 ## Representação dos Indivíduos
 
 O trabalho proposto utiliza a codificação binária para os indivíduos. Contudo, como se trata de uma função de 2 variáveis, uma segmentação deve ser feita no momento da decodificação para separá-las. Nesse caso, é desejável um número par de bits, se as variáveis independentes demandem a mesma precisão.
- 
+
+<p align="center"> 
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction2Var/blob/main/img/segmentacao_individuos.png/>
+<br/>
 Figura 2 – Segmentação dos Indivíduos
+</p>
 
 ## Ranking
 
@@ -26,10 +33,18 @@ Elitismo: A técnica do elitismo consiste em manter os melhores n indivíduos in
 
 São definidos dois pontos de cruzamento, a série binária desde o início do cromossomo até o primeiro ponto de cruzamento é copiada do primeiro pai, a parte do primeiro ponto de cruzamento até o segundo ponto é copiada do outro pai e o resto do cromossomo é copiado do primeiro pai novamente.
 Solução Desenvolvida
- 
-Figura 3 – Resultado da Solução Desenvolvida
 
+<p align="center"> 
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction2Var/blob/main/img/resolucao.png/>
+<br/>
+Figura 3 – Resultado da Solução Desenvolvida
+</p> 
+
+<p align="center"> 
+<img src=https://github.com/geraldoaax/AlgoritmoGenetico-MaxFunction2Var/blob/main/img/desempenho.png/>
+<br/>
 Figura 4 – Gráfico de Desempenho
+</p>
 
 Tamanho da população: Quanto mais indivíduos na população, menos épocas serão necessárias para o encontro da solução ótima. No entanto, a aplicação dos operadores genéticos será mais lenta para cada época. Além disso, mais memória será necessária para a execução do processo. O algoritmo evolutivo conseguiu encontrar a solução ótima com apenas 100 indivíduos e 70 gerações.
 
