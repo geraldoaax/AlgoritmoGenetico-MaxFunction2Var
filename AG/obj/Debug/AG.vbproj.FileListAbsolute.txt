@@ -1,0 +1,80 @@
+f:\documentos\visual studio 2015\Projects\AG\AG\bin\Debug\AG.exe.config
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.vbprojResolveAssemblyReference.cache
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.Resources.resources
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.vbproj.GenerateResource.Cache
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\bin\Debug\AG.exe
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\bin\Debug\AG.pdb
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\bin\Debug\AG.xml
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.exe
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.xml
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.pdb
+F:\Documentos\Visual Studio 2015\Projects\AG\AG\obj\Debug\AG.AG.resources
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\bin\Debug\AG.exe.config
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.exe
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.xml
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.pdb
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\bin\Debug\AG.exe
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\bin\Debug\AG.pdb
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\bin\Debug\AG.xml
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.vbprojResolveAssemblyReference.cache
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.AG.resources
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.Resources.resources
+C:\Users\Geraldo.INSTALE\Google Drive\Mestrado\AG\Projetos VB\AG\AG\obj\Debug\AG.vbproj.GenerateResource.Cache
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe.config
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.exe
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.xml
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.pdb
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\bin\Debug\AG.pdb
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\bin\Debug\AG.xml
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbprojResolveAssemblyReference.cache
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.AG.resources
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.Resources.resources
+C:\Users\Geraldo.INSTALE\Dropbox\ag\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.GenerateResource.Cache
+F:\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe.config
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.exe
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.xml
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.pdb
+F:\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe
+F:\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.pdb
+F:\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.xml
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbprojResolveAssemblyReference.cache
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.AG.resources
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.Resources.resources
+F:\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.GenerateResource.Cache
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe.config
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.pdb
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.xml
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbprojResolveAssemblyReference.cache
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.AG.resources
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.Resources.resources
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.GenerateResource.Cache
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.exe
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.xml
+D:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.pdb
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe.config
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.pdb
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.xml
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbprojResolveAssemblyReference.cache
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.AG.resources
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.Resources.resources
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.GenerateResource.cache
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.CoreCompileInputs.cache
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.exe
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.xml
+e:\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.pdb
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe.config
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.exe
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.pdb
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\bin\Debug\AG.xml
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.AssemblyReference.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.SuggestedBindingRedirects.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.AG.resources
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.Resources.resources
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.GenerateResource.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.vbproj.CoreCompileInputs.cache
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.exe
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.xml
+C:\Users\geraldo\OneDrive - Instale Tecnologia Ltda\Documentos\Mestrado\AG\Projetos VB\AG4\AG\obj\Debug\AG.pdb
